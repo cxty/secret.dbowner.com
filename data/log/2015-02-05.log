@@ -1,0 +1,8 @@
+2015-02-05 15:32:02 | 220.181.158.107 | /index.php/reports/CreateReportTable.jsp |reports模块不存在
+2015-02-05 15:32:03 | 220.181.158.107 | /index.php/job/msearch-trunk/lastSuccessfulBuild/artifact/ |job模块不存在
+2015-02-05 15:32:06 | 220.181.158.107 | /index.php/download.action |download.action模块不存在
+2015-02-05 18:01:29 | 220.181.158.107 | /index.php/reports/CreateReportTable.jsp |reports模块不存在
+2015-02-05 18:01:30 | 220.181.158.107 | /index.php/job/msearch-trunk/lastSuccessfulBuild/artifact/ |job模块不存在
+2015-02-05 18:01:31 | 220.181.158.107 | /index.php/portal/WEB-INF/web.xml |portal模块不存在
+2015-02-05 18:01:32 | 220.181.158.107 | /index.php/eassso/WEB-INF/web.xml |eassso模块不存在
+2015-02-05 18:01:33 | 220.181.158.107 | /index.php/WEB-INF/web.xml |WEB-INF模块不存在
